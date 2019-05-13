@@ -1,6 +1,6 @@
 /*
- * I2C HopeRF TH10 measurement reader
- * 
+ * HopeRF TH10 i2c Temperature and Humidity Reader
+
  * Uses code from:
  * I2C SRF10 or SRF08 Devantech Ultrasonic Ranger Finder 
  * by Nicholas Zambetti <http://www.zambetti.com> 
